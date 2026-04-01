@@ -1,2 +1,16 @@
-# CodeAlpha_StudentGradeTracker
-Input and manage student names &amp; marks • Calculate average, highest, and lowest scores • Display a complete summary report.
+# Student Grade Tracker
+
+A simple Java console-based application to manage student records and analyze performance.
+
+## Features
+- Add student names and marks
+- Calculate average marks
+- Find highest and lowest scores
+- Display complete report
+
+## How to Run
+1. Compile:
+   javac StudentGradeTracker.java
+
+2. Run:
+   java StudentGradeTracker
